@@ -34,3 +34,4 @@ npm run dev
 - Deploy the Next.js frontend to Vercel.
 - Deploy `retail_api.py` to a Python hosting service (Render/Railway/Fly/VM).
 - Set `PYTHON_API_URL` in Vercel environment variables to the deployed backend URL.
+- If using Render, follow [RENDER_DEPLOY.md](/Users/kyleliwanag/Desktop/MachineLearning/RENDER_DEPLOY.md) and the included [render.yaml](/Users/kyleliwanag/Desktop/MachineLearning/render.yaml) blueprint.
